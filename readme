@@ -1,0 +1,12 @@
+***Write a function that loops over every item in the menu array and builds a sentence about the name and price of each sandwich. Example: "The tomato sandwich is 6.99."
+**Write a function that accepts a string of sandwich name, a number of price, and an array of ingredients. The function should build an object that represents a sandwich and add it to the array.
+**Write a function that reduces every sandwich's price by 25% and returns a new array of discount sandwiches.
+**Write a "Dairy Free" function that loops through your array of sandwiches and returns a new array of sandwiches that do NOT include cheese in their ingredient list. (Make sure you have at least one sandwich with cheese so you can test if this function works.)
+Instructions for 1/11 and 1/12, in order of priority:
+Work on the practice exercises above for sandwich shop
+Finish Chapter 8 if you haven't already
+Work on this functions muslce memory practice
+Work on building the Daily Journal Form if you haven't already
+If you finish that, here's another functions muslce memory practice
+If you finish ALL OF THIS, go take a nap! JK talk to me and/or Tommy and we'll getcha something else going.
+
